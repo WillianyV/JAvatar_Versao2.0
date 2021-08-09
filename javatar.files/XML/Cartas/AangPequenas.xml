@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><list>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>20</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Aang\Ataque\1 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>aangAtaque1</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Aang\Ataque\2 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>aangAtaque2</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Aang\Ataque\3 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>aangAtaque3</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>30</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Aang\Ataque\4 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>aangAtaque4</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>20</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Aang\Defesa\1 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>aangDefesa1</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Aang\Defesa\2 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>aangDefesa2</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Aang\Defesa\3 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>aangDefesa3</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>20</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Aang\Defesa\4 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>aangDefesa4</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Magia</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Magia\magiaPequena.png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>magia</id>
+  </model.Carta>
+</list>

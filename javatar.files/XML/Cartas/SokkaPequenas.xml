@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><list>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>20</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Sokka\Ataque\1 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>sokkaAtaque1</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>30</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Sokka\Ataque\2 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>sokkaAtaque2</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Sokka\Ataque\3 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>sokkaAtaque3</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>20</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Sokka\Defesa\1 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>sokkaDefesa1</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>30</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Sokka\Defesa\2 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>sokkaDefesa2</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Sokka\Defesa\3 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>sokkaDefesa3</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Magia</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Magia\magiaPequena.png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>magia</id>
+  </model.Carta>
+</list>

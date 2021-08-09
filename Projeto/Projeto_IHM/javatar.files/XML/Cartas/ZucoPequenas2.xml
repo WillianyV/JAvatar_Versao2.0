@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><list>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Zuco\Ataque\1 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>zucoAtaque1</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Zuco\Ataque\2 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>zucoAtaque2</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>20</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Zuco\Ataque\3 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>zucoAtaque3</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Ataque</tipo>
+    <pontos>30</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Zuco\Ataque\4 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>zucoAtaque4</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>20</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Zuco\Defesa\1 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>zucoDefesa1</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>20</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Zuco\Defesa\2 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>zucoDefesa2</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Zuco\Defesa\3 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>zucoDefesa3</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Defesa</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Zuco\Defesa\4 (2).png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>zucoDefesa4</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Verso</tipo>
+    <pontos>0</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Aang\versoZucoPequena.png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>magia</id>
+  </model.Carta>
+  <model.Carta>
+    <tipo>Magia</tipo>
+    <pontos>10</pontos>
+    <imagem>Arquivos\Imagens\Cartas\Magia\magiaPequena.png</imagem>
+    <ativadaStatus>false</ativadaStatus>
+    <id>magia</id>
+  </model.Carta>
+</list>

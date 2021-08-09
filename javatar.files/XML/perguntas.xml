@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?><list>
+  <model.Perguntas>
+    <pergunta>Considere o seguinte trecho de código na linguagem de programação Java. A utilização dos métodos getters e setters, à maneira dos declarados nas linhas 4, 7, 10 e 13 do código apresentado, é uma estratégia para aplicar um importante conceito de orientação a objetos chamado</pergunta>
+    <multiplaEscolha>
+      <string>Generalização</string>
+      <string>Herança</string>
+      <string>Encapsulamento</string>
+      <string>Sobrecarga</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Encapsulamento</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/1.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Em uma aplicação Java orientada a objetos que usa relações de herança, uma subclasse não pode ter mais que um construtor, mesmo que receba parâmetros diferentes.</pergunta>
+    <multiplaEscolha>
+      <string>superclasse não pode ter métodos sobrecarregados ou sobrescritos.</string>
+      <string>subclasse não pode sobrescrever um método da superclasse, mas o contrário é permitido.</string>
+      <string>subclasse herda somente os atributos e os métodos privados da superclasse.</string>
+      <string>subclasse normalmente usa a anotação @Override para indicar que um método da superclasse foi sobrescrito.</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>subclasse normalmente usa a anotação @Override para indicar que um método da superclasse foi sobrescrito.</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Na linguagem Java ao se usar uma constante numérica, no código fonte, ela será um int. O tamanho desse tipo numérico é de:</pergunta>
+    <multiplaEscolha>
+      <string>16 bits (valores de -32.768 a +32.767).</string>
+      <string>32 bits (valores de -2.147.483.648 a +2.147.483.647).</string>
+      <string>32 bits (valores de -32.768 a +32.767).</string>
+      <string>64 bits (valores de -2.147.483.648 a +2.147.483.647).</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>32 bits (valores de -2.147.483.648 a +2.147.483.647).</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Pacotes são basicamente pastas ou diretórios do sistema operacional que ficam armazenados os arquivos fonte de Java e são essenciais para o conceito de encapsulamento, no qual são dados níveis de acesso às classes. Para tanto, a sequência correta de utilização de todos esses elementos envolvidos é:</pergunta>
+    <multiplaEscolha>
+      <string>package - import - class</string>
+      <string>import - package - class</string>
+      <string>package - class - import</string>
+      <string>class - import - package</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>package - import - class</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>A Máquina Virtual Java ______ o código fonte para código de máquina específico de uma plataforma e sistema operacional”. Qual alternativa completa corretamente a lacuna?</pergunta>
+    <multiplaEscolha>
+      <string>Compila.</string>
+      <string>Deleta.</string>
+      <string>Separa.</string>
+      <string>Reorganiza.</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Compila.</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Acerca de linguagens de programação e J2EE e portais corporativos, julgue o seguinte item.
+O seguinte trecho de código em Java exibe uma estrutura de controle de fluxo representativa das sentenças de iteração e fornece desvios implícitos no final de seus segmentos de código.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/6.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Em JAVA, existe um método que pertence à biblioteca nativa, onde não é capaz de bloquear a execução de uma determinada thread. Com relação a esse assunto, marque a alternativa correta.</pergunta>
+    <multiplaEscolha>
+      <string>Thread.join()</string>
+      <string>Thread.insert()</string>
+      <string>Thread.block()</string>
+      <string>Thread.yield()</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Thread.yield()</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Ao compilar um arquivo salvo com a extensão .java, há a necessidade de transformação do código em bytecodes para que ele possa ser executado e reconhecido pela Máquina Virtual Java. Nesse caso, assinale a alternativa que indica a extensão gerada.</pergunta>
+    <multiplaEscolha>
+      <string>.css</string>
+      <string>.jar</string>
+      <string>.exe</string>
+      <string>.class</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>.class</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Em Java, um método do tipo “void” significa que</pergunta>
+    <multiplaEscolha>
+      <string>ele retorna o valor de uma variável.</string>
+      <string>ele não retorna valor algum.</string>
+      <string>o método é instância de um objeto.</string>
+      <string>o método é uma função.</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>ele não retorna valor algum.</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>A Máquina Virtual que carrega e executa os aplicativos Java, convertendo os bytecodes em código executável de máquina, é conhecida pela sigla em inglês:</pergunta>
+    <multiplaEscolha>
+      <string>SDK</string>
+      <string>JDK</string>
+      <string>JVM</string>
+      <string>JRE</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>JVM</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>O programador de computadores conta com diversas técnicas para melhorar os programas, tornando-os cada vez melhores e mais simples, criando rotinas que podem ser chamadas por elas mesmas. Marque a alternativa que possui o nome que é dado para esse tipo de rotina.</pergunta>
+    <multiplaEscolha>
+      <string>Recursiva</string>
+      <string>Modular</string>
+      <string>Orientada a objeto</string>
+      <string>Associativa</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Recursiva</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Em relação à linguagem de programação Java, qual o método estático que apenas exibe uma caixa de diálogo contendo uma mensagem?</pergunta>
+    <multiplaEscolha>
+      <string>Graphics.showMessage</string>
+      <string>JFrame.showMessage</string>
+      <string>JOptionPane.showInputDialog</string>
+      <string>JOptionPane.showMessageDialog</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>JOptionPane.showMessageDialog</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Em um programa na linguagem Java, um Técnico declarou uma variável e atribuiu a ela um valor inteiro por meio do comando short a = 32768;. Ao tentar executar a aplicação, este comando gerou uma exceção porque variáveis do tipo short só podem conter valores na faixa de:</pergunta>
+    <multiplaEscolha>
+      <string>-128 a 127.</string>
+      <string>0 a 256.</string>
+      <string>-32768 a 32767.</string>
+      <string>-2048 a 2047.</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>-32768 a 32767.</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Os operadores possuem regras que são aplicadas nas expressões aritméticas do Java, que são as mesmas seguidas em álgebra. Quando dizemos que os operadores são aplicados da esquerda para a direita, estamos nos referindo à sua associatividade</pergunta>
+    <multiplaEscolha>
+      <string>0 2 1 0 2 1 0 2 1</string>
+      <string>0 0 1 0 0 1 0 0 1</string>
+      <string>0 1 2 0 1 2 0 1 2</string>
+      <string>0 1 0 1 0 1 0 1 0</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>0 2 1 0 2 1 0 2 1</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/14.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Em Orientação a Objetos, Herança Múltipla ocorre quando uma classe herdar de duas ou mais classes. Java não permite Herança Múltipla entre classes, ou seja, em Java uma classe só pode herdar de no máximo uma outra classe. Entretanto, normalmente os desenvolvedores Java utilizam-se de outra estrutura para simular Herança Múltipla. Que estrutura é essa?</pergunta>
+    <multiplaEscolha>
+      <string>Classe Abstrata.</string>
+      <string>Classe Aninhada.</string>
+      <string>Annotation.</string>
+      <string>Interface.</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Interface.</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>A linguagem de programação Java permite a criação de programas que façam uso de recursividade. Isto posto, analise a classe Java, denominada X, abaixo.</pergunta>
+    <multiplaEscolha>
+      <string>quando compilada e executada, o console apresentará o valor 120.</string>
+      <string>quando compilada e executada, a classe entrará em loop infinito.</string>
+      <string>quando compilada e executada, o console apresentará o valor 720.</string>
+      <string>quando compilada e executada, o console apresentará uma exceção.</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>quando compilada e executada, o console apresentará o valor 120.</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/16.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Com relação aos conceitos de programação orientada a objetos, um objeto é:</pergunta>
+    <multiplaEscolha>
+      <string>uma instância de uma classe.</string>
+      <string>usado para instanciar classes ou outros objetos.</string>
+      <string>uma variável de um tipo primitivo ou uma referência.</string>
+      <string>uma referência para uma classe ou para outros objetos.</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>uma instância de uma classe.</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Utilizando Java 8, qual o resultado do código abaixo?</pergunta>
+    <multiplaEscolha>
+      <string>Erro de compilação devido as linhas 1 e 2</string>
+      <string>Erro de compilação devido à linha 1</string>
+      <string>”554123”</string>
+      <string>677</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Erro de compilação devido as linhas 1 e 2</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/18.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Utilizando Java 8, sobre a classe Cliente abaixo, o que podemos afirmar corretamente?</pergunta>
+    <multiplaEscolha>
+      <string>A classe Cliente não pode ser estendida.</string>
+      <string>Subclasses de Cliente devem implementar o método compra().</string>
+      <string>Subclasses concretas de Cliente devem utilizar um construtor padrão.</string>
+      <string>Subclasses concretas de Cliente devem implementar o método compra().</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Subclasses concretas de Cliente devem implementar o método compra().</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/19.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Em Java 8, qual modificador de acesso torna um membro disponível somente para classes dentro do mesmo pacote ou subclasses?</pergunta>
+    <multiplaEscolha>
+      <string>public</string>
+      <string>default</string>
+      <string>private</string>
+      <string>protected</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>protected</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Analise as linhas de código em Java a seguir. Qual é a linha que apresenta erro?</pergunta>
+    <multiplaEscolha>
+      <string>Linha 2</string>
+      <string>Linha 3</string>
+      <string>Linha 4</string>
+      <string>Linha 6</string>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Linha 2</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/21.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Embora não sejam objetos, os valores dos tipos primitivos escalares são suportados por Java.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Certo</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Com referência à linguagem de programação Java, julgue o item a seguir.
+São estruturas de repetições Java: while, for e do-while.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Certo</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Uma das vantagens da linguagem Java em relação a outras linguagens é a fácil implementação de herança múltipla.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>A linguagem Java provê, de forma nativa, a capacidade de multithreading, ou seja, a execução de mais de um fluxo de instruções em paralelo e com a mesma prioridade.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Na linguagem Java, o conceito de herança está vinculado à criação de uma nova classe a partir de uma classe já existente, em que essa nova classe herda os atributos e comportamentos da classe anterior.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Certo</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Julgue o próximo item, relativo ao paradigma de programação orientada a objetos (POO).
+No POO com base em classes, todos os objetos são instâncias das classes que descrevem as propriedades (atributos) e os comportamentos (métodos) dos objetos.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Certo</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>A palavra reservada interface é utilizada sempre que se quer criar uma nova tela com interface gráfica.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Devido à linguagem de programação Java ser fortemente tipada, não é possível haver conversão entre tipos de dados diferentes.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Caso queira lançar uma exceção em seu programa, o programador deverá utilizar a palavra reservada throw seguida da exceção a ser lançada.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Certo</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>A classe não compilará, pois houve erro durante a conversão dos tipos de dados na linha 7.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/31.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>A classe não irá compilar, por causa do operador &quot;+=&quot;, utilizado na linha 8.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/32.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>O tipo int é um tipo primitivo Java.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Certo</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Com referência à linguagem de programação Java, julgue o item a seguir.
+São estruturas de repetições Java: while, for, for-while e repeat.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Com base na imagem da classe Java apresentada. A classe irá compilar, mas não executará, porque apresentará erro em tempo de execução.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/35.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Acerca da linguagem Java, julgue o próximo item.
+O método no código
+System.out.println(valor.charAt(0));
+retornará todos os caracteres referentes à string avaliada</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Acerca da linguagem Java, julgue o próximo item.
+O método no código
+System.out.println(valor.codePointAt(0));
+retornará a comparação entre duas strings em formato unicode</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Julgue o item a seguir, a respeito da linguagem de programação Java.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Errado</resposta>
+    <enderecoImagem>javatar.files/Imagens/Perguntas/38.png</enderecoImagem>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Arquivo JAR contém recursos relacionados ao Java, como bibliotecas e classes, e pode conter qualquer arquivo que não seja relacionado a aplicação Java, como .txt, .doc, .gif.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Certo</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>Para a criação de objetos utilizando a linguagem Java, devem-se usar expressões contendo a palavra‑chave new.</pergunta>
+    <multiplaEscolha>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </multiplaEscolha>
+    <certoErrado>
+      <null/>
+      <null/>
+    </certoErrado>
+    <resposta>Certo</resposta>
+  </model.Perguntas>
+</list>
